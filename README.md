@@ -1,9 +1,6 @@
-# DeepLearning Andrew NG by Wallik
+# Npdipple
 
-Status
+- This repo was created to easily extend the dipple package due to its readibility
 
-- Deep L-Layers (checked)
-- Weight initialization (checked)
-- Regularization (L2, DropOut) (In progress)
-- GradCheck
+Current status - Optimizer to mlp
 
